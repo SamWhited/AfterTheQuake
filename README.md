@@ -1,8 +1,8 @@
 # After the Quake
 
 [DramaTech Theatre](http://dramatech.org) at [Georgia Tech](http://gatech.edu)
-is performed Frank Galati and Haruki Murakami's 'After the Quake' in [February
-of 2012](http://dramatech.org/shows/details/87). This repo contains a proposed
+performed Frank Galati and Haruki Murakami's 'After the Quake' in [February of
+2012](http://dramatech.org/shows/details/87). This repo contains a proposed
 (unused) set design for the show.
 
 ## Synopsis
